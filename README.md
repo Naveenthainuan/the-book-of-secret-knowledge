@@ -40,6 +40,38 @@ A few simple rules for this project:
 - inviting and clear
 - not tiring
 - useful
+p align="center">
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
+    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
+  </a>
+</p>
+
+<p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
+
+<h4 align="center">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, CLI/web tools, and more.</h4>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
+  </a>
+</p>
+
+<br>
+
+---
+
+## :notebook_with_decorative_cover: What is it?
+
+This repository is a collection of various materials and tools I use daily in my work. It's a single, invaluable source of useful information that I frequently reference.
+
+---
+
+## :restroom: Who is it for?
 
 These below rules may be better:
 
